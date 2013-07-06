@@ -55,3 +55,8 @@ puts Hashy
 puts "Array of Hashes:"
 Array_of_Hash = [['a'=> "Crazy!"],['b'=> "I'm"],['c'=> "An"],['d'=> "Array!"]]
 puts Array_of_Hash
+puts
+puts
+puts "I examined railsapi.com, api.rubyonrails.org, ruby-doc.org, and a myriad of others... "
+puts "but for simplicity sake, ruby-doc.org is the easiest to navigate and use."
+puts "However, Rubyforge.com has a lot of interesting things as well! Lots of fun snippets of code!"
